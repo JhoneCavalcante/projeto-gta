@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    /*espaçamento externo*/
+    padding: 0;
+    /*espaçamento interno*/
+    box-sizing: border-box;
+    /*para trabalhar com largura e altura de forma mais fácil*/
+}
+
+ul {
+    list-style: none;
+    /*Vai tirar o estilo da lista*/
+}
+
+a {
+    text-decoration: none;
+    /*vai ficar sem tipo de estilo*/
+    color: inherit;
+    /*heradará a cor*/
+}
